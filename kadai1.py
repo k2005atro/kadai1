@@ -40,3 +40,8 @@ x = 10
 if x > 0:
   print('x is positive')
 
+def main():
+    print("これはmain関数です")
+
+if __name__ == "__main__":
+    main()
